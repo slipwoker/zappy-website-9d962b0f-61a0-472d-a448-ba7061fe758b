@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מחפשים חברת שיווק דיגיטלי מובילה? אנחנו מתמחים בשיווק במנועי חיפוש ומדיה חברתית. קבלו תוצאות מדידות עם אסטרטגיות מנצחות שמביאות לקוחות אמיתיים.
+
+### עבודות
+https://example.com/work
+גלו את תיק העבודות שלנו בשיווק במנועי חיפוש ומדיה חברתית. קמפיינים שהניבו תוצאות מרשימות ללקוחות מרוצים. צפו בהצלחות האמיתיות שלנו בשיווק דיגיטלי.
+
+### אודות
+https://example.com/about
+הכירו את הצוות המקצועי שלנו בתחום השיווק הדיגיטלי. שנות ניסיון בקידום במנועי חיפוש ושיווק ברשתות חברתיות. גלו איך אנחנו הופכים אתגרים לתוצאות מרשימות.
+
+### צור קשר
+https://example.com/contact
+מוכנים להצמיח את העסק? צרו קשר עכשיו לייעוץ חינם בשיווק דיגיטלי. נבנה ביחד אסטרטגיית שיווק במנועי חיפוש ומדיה חברתית שתניב תוצאות מדידות ומשמעותיות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
